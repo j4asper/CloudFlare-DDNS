@@ -51,3 +51,8 @@ Now save the file, and reload the daemon:
 Then enable the newly created service:  
 ```sudo systemctl enable ddns```
 
+And then you can start the service:  
+```sudo systemctl start ddns```
+
+You can see the status of the script by using the systemctl status command:  
+```sudo systemdtl status ddns```
