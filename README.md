@@ -20,4 +20,5 @@ Your global api key can be found here: https://dash.cloudflare.com/profile/api-t
 Save the file, and download the requirements from the requirements.txt file:  
 ```pip3 install -r requirements.txt``` or ```python3 -m pip install -r requirements.txt```
 
+### Creating a service
 If you are hosting this on a home server or raspberry pi, you should create a systemd service. This makes the script start on bootup.
