@@ -16,6 +16,7 @@ You can use the text editor of choice, i use nano.
 
 Your global api key can be found here: https://dash.cloudflare.com/profile/api-tokens
 
+### Installing packages
 Save the file, and download the requirements from the requirements.txt file:  
 ```pip3 install -r requirements.txt``` or ```python3 -m pip install -r requirements.txt```
 
