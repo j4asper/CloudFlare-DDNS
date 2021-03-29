@@ -1,6 +1,8 @@
 # CloudFlare Dynamic DNS
 ### Using your domain as your dynamic dns.
 
+I would recommend creating a subdomain that has a weird name, mainly to avoid overwriting your root domain, if it has a link to a site you are running, and a weird name for your dynamic dns would make it more difficult to find your home IP.
+
 This is primarily created to run on linux on a raspberry pi or something else at home.
 
 ### Installation
