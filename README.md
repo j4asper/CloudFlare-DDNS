@@ -56,5 +56,5 @@ Then enable the newly created service:
 And then you can start the service:  
 ```sudo systemctl start ddns```
 
-You can see the status of the script by using the systemctl status command:
+You can see the status of the script by using the systemctl status command:  
 ```sudo systemdtl status ddns```
