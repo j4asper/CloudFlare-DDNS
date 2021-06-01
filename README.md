@@ -57,4 +57,4 @@ And then you can start the service:
 ```sudo systemctl start ddns```
 
 You can see the status of the script by using the systemctl status command:  
-```sudo systemdtl status ddns```
+```sudo systemctl status ddns```
